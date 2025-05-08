@@ -59,7 +59,3 @@ Klik tombol **Run**.
 Laporan otomatis tersimpan di:
 Reports/
 
-└── <timestamp>/
-
-└── TS - 000X.html
-
