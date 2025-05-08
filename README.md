@@ -25,14 +25,17 @@ Project ini adalah implementasi automated API testing menggunakan **Katalon Stud
 ##  Struktur Project
 Test Cases/
 ├── TC - 0001 - Verify API Forecast
+
 ├── TC - 0002 - Verify API air pollution
 
 Object Repository/
 ├── forecast/
+
 └── air pollution/
 
 Test Suites/
 ├── TS - 0001 - Verify API Forecast
+
 └── TS - 0002 - Verify API air pollution
 
 
@@ -53,5 +56,6 @@ Klik tombol **Run**.
 Laporan otomatis tersimpan di:
 Reports/
 └── <timestamp>/
+
 └── TS - 000X.html
 
